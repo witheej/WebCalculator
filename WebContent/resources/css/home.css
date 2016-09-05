@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: gray;
+}
+
+.jumbotron {
+	margin-top: 20px;
+	text-align: center;
+}

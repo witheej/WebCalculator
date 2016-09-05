@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+
+#screen {
+	margin: 0px;
+	font-family: Consolas;
+	font-size: 20px;
+	text-align: right;
+	color: black;
+	padding: 10px;
+	color: black;
+	text-align: right;
+}
+
+.well,.well-sm,.well-lg {
+	background-color: #00e070;
+}
+
+#calculator {
+	margin: 30px auto;
+	padding: 15px;
+	border-radius: 15px;
+	width: 75%;
+	min-width: 400px;
+	border: 3px solid black;
+}
+
+.numKey,.operator,#equalsKey,#clearKey {
+	text-align: center;
+	display: block;
+	width: 100%;
+	margin-top: 10px;
+}
